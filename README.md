@@ -46,10 +46,3 @@ The application will be available at `http://localhost:5173` (or another port if
 To build for production:
 ```bash
 npm run build
-```
-
-To preview the production build:
-```bash
-npm run preview
-```
-```
